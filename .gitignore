@@ -1,0 +1,10 @@
+# Backup folder
+ppt_images/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
