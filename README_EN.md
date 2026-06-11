@@ -59,7 +59,7 @@ npx serve .
 ## Contact
 
 - 📍 Address: Room 310, Building 2, Lane 1505, Lianhang Road, Minhang District, Shanghai, China
-- ✉️ Email: dongming.zhu@dexin-sh.com
+- ✉️ Email: sundaylee3100@gmail.com
 - 🌐 Website: https://dexin-sh.com
 
 ## Copyright

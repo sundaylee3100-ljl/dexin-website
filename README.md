@@ -59,7 +59,7 @@ npx serve .
 ## 联系方式
 
 - 📍 地址：上海市闵行区联航路1505弄2号楼310
-- ✉️ 邮箱：dongming.zhu@dexin-sh.com
+- ✉️ 邮箱：sundaylee3100@gmail.com
 - 🌐 网站：https://dexin-sh.com
 
 ## 版权信息
